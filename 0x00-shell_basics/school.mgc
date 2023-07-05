@@ -1,2 +1,3 @@
-0 string SCHOOL school data file 
-echo "0 string SCHOOL" > school.mgc
+#!/bin/bash
+0 string HOLBERTON Holberton data 
+!:mime Holberton
